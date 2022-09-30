@@ -1,0 +1,24 @@
+*{
+	margin:0px;
+	padding:0px;
+	background-color: #dcdcdc
+}
+.chess{
+	width: 500px;
+    	height: 500px;
+	margin: 14px auto;
+    	border: 14px solid #281D14;
+}
+.white{
+	background-color: #EDEBE9;
+	width:62.5px;
+	height:62.5px;
+}
+.black{
+	background-color: #262626;
+	width:62.5px;
+	height:62.5px;
+}
+.row1,.row2{
+	display:flex;
+}
